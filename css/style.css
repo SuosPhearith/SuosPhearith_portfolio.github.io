@@ -1,0 +1,16 @@
+.name{
+    text-transform: uppercase;
+    justify-content: center;
+    text-align: center;
+}
+.btn{
+    border-color: aliceblue;
+}
+.navbar-link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+}
+.navbar-link:hover{
+    color: rgb(183, 19, 19);
+}
